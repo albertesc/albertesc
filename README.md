@@ -13,7 +13,16 @@ const ABOUT_ME = {
   technologies: {
     frontend: ['React', 'Next.js'],
     backend: ['Node.js', 'Express', 'MongoDB'],
-    misc: ['Git', 'Laravel', 'PHP', 'StoryBook', 'Webpack', 'Npm', 'TailwindCSS', 'Styled-Components']
+    misc: [
+      'Git',
+      'Laravel',
+      'PHP',
+      'StoryBook',
+      'Webpack',
+      'Npm',
+      'TailwindCSS',
+      'Styled-Components'
+    ]
   },
   experience: '+15 years',
   urls: {
