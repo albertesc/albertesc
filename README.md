@@ -2,9 +2,9 @@
 
 I am a Frontend developer with a great sensitivity for design, I'm obsessed with keeping my code clean and tidy.
 
-👇 This is my JavaScript constant 😁
-
 ```javascript
+// 👇 This is my JavaScript constant 😁
+
 const ABOUT_ME = {
   name: 'Albert Escamilla',
   code: ['JavaScript', 'CSS', 'HTML', 'SASS'],
