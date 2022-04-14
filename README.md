@@ -19,7 +19,7 @@ const ABOUT_ME = {
     linkedin: 'https://www.linkedin.com/in/albertescamillagarcia/',
     personal: 'https://albertesc.dev/'
   },
-  languages: ['es_ES', 'ca_CA']
+  languages: ['es_ES', 'ca_CA'],
   currentCountry: 'Spain'
 }
 ```
