@@ -24,7 +24,7 @@ const ABOUT_ME = {
       'Styled-Components'
     ]
   },
-  experience: '+15 years',
+  experience: '+16 years',
   urls: {
     github: 'https://github.com/albertesc',
     linkedin: 'https://www.linkedin.com/in/albertescamillagarcia/',
